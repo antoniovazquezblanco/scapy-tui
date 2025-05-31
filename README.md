@@ -1,7 +1,5 @@
 # Scapy TUI
 
-# SWEXML
-
 [![Build](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/build.yml/badge.svg)](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/build.yml)
 [![PyPI](https://img.shields.io/pypi/v/scapy-tui)](https://pypi.org/project/scapy-tui/)
 [![Snyk](https://snyk.io/advisor/python/scapy-tui/badge.svg)](https://snyk.io/advisor/python/scapy-tui)
