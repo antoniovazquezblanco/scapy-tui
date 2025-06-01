@@ -9,4 +9,4 @@ Browse network traffic and analyze packets in an interactive text-based user int
 
 Just `pip install scapy-tui` and the `scapytui` command will be available.
 
-![Scapy TUI screenshot](screenshot.svg)
+![Scapy TUI screenshot](https://raw.githubusercontent.com/antoniovazquezblanco/scapy-tui/refs/heads/main/screenshot.svg)
