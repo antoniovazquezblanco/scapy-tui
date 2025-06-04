@@ -1,6 +1,7 @@
 # Scapy TUI
 
 [![Build](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/build.yml/badge.svg)](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/build.yml)
+[![CodeQL](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/codeql.yml/badge.svg)](https://github.com/antoniovazquezblanco/scapy-tui/actions/workflows/codeql.yml)
 [![PyPI](https://img.shields.io/pypi/v/scapy-tui)](https://pypi.org/project/scapy-tui/)
 [![Snyk](https://snyk.io/advisor/python/scapy-tui/badge.svg)](https://snyk.io/advisor/python/scapy-tui)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE.md)
