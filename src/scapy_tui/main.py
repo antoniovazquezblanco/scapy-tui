@@ -1,4 +1,4 @@
-#!/usr/bin/venv python
+#!/usr/bin/env python
 # Copyright 2025 - 2025, Antonio Vázquez Blanco and the swexml contributors
 # SPDX-License-Identifier: GPL-3.0-only
 
