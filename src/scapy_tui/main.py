@@ -9,6 +9,7 @@ from .scapy_tui_app import ScapyApp
 
 
 def load_layers():
+    from scapy.layers import bluetooth
     load_contrib("automotive.bmw.definitions")
     load_contrib("automotive.bmw.enumerator")
     load_contrib("automotive.bmw.hsfz")
